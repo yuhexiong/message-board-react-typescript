@@ -1,4 +1,4 @@
-# Message Board
+# Message Board Web
 
 
 ### Backend Server - [Message Board Api TypeScript](https://github.com/yuhexiong/message-board-api-typescript)
